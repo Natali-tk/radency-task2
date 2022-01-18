@@ -1,0 +1,91 @@
+tr.headerRow {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.18;
+  padding: 20px 0;
+  border-radius: 15px 15px 0 0;
+  background-color: #9a9a9a;
+  border-bottom: solid 10px #fcfcfc;
+}
+th.headerDescr {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.18;
+  color: #fcfcfc;
+  font-weight: bold;
+}
+th.headerIcon {
+  color: #fcfcfc;
+}
+tr.bodyRow {
+  
+  padding: 8px 0;
+  background-color: #e9ebf5;
+  min-height: 50px;
+  text-align: center;
+}
+tr.bodyRow:not(:last-child) {
+  border-bottom: solid 10px #fcfcfc;
+}
+.bodyIconBtn {
+  color: #7b7b7b;
+}
+th.bodyRowName {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.18;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+td.bodyDescr {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.18;
+  color: #797978;
+}
+.bodyRowIcon{
+  color:#fcfcfc;
+  border-radius: 50%;
+  background-color: #616161;
+  margin-right: 10px;
+  padding: 3px;
+}
+.btn{
+  border:none;
+  background-color: transparent;
+}
+.btn:hover>.bodyIconBtn,
+.btn:focus>.bodyIconBtn{
+  color:#616161;
+}
+.boxCreateBtn{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top:10px;
+  margin-bottom: 30px;
+}
+.inputCategory{
+  margin-top: 10px;
+}
+button.openBtn{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.18;
+  border: 2px solid transparent;
+  border-radius:5px;
+  padding: 5px;
+  background-color:#e9ebf5 ;
+  color:#000000;
+  text-transform: none;
+}
+button.openBtn:hover{
+  background-color:#797978 ;
+  color:#fcfcfc;
+}
+.activeIcon{
+  color:#fcfcfc;
+}
+.archiveIcon{
+  color:#000000;
+}

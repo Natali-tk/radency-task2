@@ -1,0 +1,9 @@
+[
+  {"id":1,"name":"Shopping list","created":"April 20, 2021","category":"Task","content":"Tomatoes, bread","dates":" ","archive":true},
+  {"id":2,"name":"The theory of evolution","created":"April 27, 2021","category":"Random Thought","content":"The evolution is the change in the characteristics of a species over several ","dates":" ","archive":false},
+  {"id":3,"name":"New Feature","created":"May 05, 2021","category":"Idea","content":"Implement new feature","dates":"3/5/2021, 5/5/2021","archive":false},
+  {"id":4,"name":"William Gaddis","created":"May 07, 2021","category":"Quote","content":"Power doesn't corrupt people, people corrupt power.","dates":" ","archive":false},
+  {"id":5,"name":"Hometask 1","created":"Jan 12, 2022","category":"Task","content":"Table notes on JS","dates":" ","archive":false},
+  {"id":6,"name":"Hometask 2","created":"Jan 14, 2022","category":"Task","content":"React App with notes","dates":" ","archive":true},
+  {"id":7,"name":"Hometask 3","created":"Jan 15, 2022","category":"Task","content":"Backend for front side","dates":" ","archive":false}
+]
